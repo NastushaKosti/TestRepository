@@ -1,4 +1,4 @@
-message = "hello"
+message = "help"
 print (message)
-result = 2+8
+result = 2+8-2*28-3
 print result
